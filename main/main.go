@@ -271,3 +271,10 @@ const (
 func test() mgo.Index {
 
 }*/
+
+/*
+https://www.elastic.co/guide/en/logstash/current/deploying-and-scaling.html 
+https://logging.apache.org/log4j/2.x/manual/appenders.html#RewriteAppender 
+*/
+
+15547490
